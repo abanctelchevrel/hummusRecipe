@@ -30,3 +30,4 @@ etc
 *.sln
 *.vcxproj*
 .vscode
+output.pdf
